@@ -1,0 +1,2 @@
+Truck,Volvo,VNL,2023,DEF202,10.2
+Motorcycle,Honda,CB-150F,2026,GHI303,true
