@@ -62,7 +62,6 @@ The system supports **Cars, Trucks, and Motorcycles** and lets users **add, disp
 
 ## Known Issues / Improvements
 - Remove hardcoded file paths
-- Move database credentials into a config file
 - Add input validation
 - Add an update/edit feature
 - Improve error messages
