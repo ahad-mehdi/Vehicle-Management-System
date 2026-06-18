@@ -66,7 +66,7 @@ public class VehicleManager {
 
             BufferedWriter writer =
                     new BufferedWriter(
-                            new FileWriter("C:\\\\Users\\\\Dell\\\\OneDrive\\\\Documents\\\\NetBeansProjects\\\\VehicleManagementSystem\\\\vehicles.txt"));
+                            new FileWriter("vehicles.txt"));
 
             for (Vehicle vehicle : vehicles) {
 
@@ -124,7 +124,7 @@ public class VehicleManager {
 
         try {
 
-           File file = new File("C:\\\\Users\\\\Dell\\\\OneDrive\\\\Documents\\\\NetBeansProjects\\\\VehicleManagementSystem\\\\vehicles.txt");
+           File file = new File("vehicles.txt");
 
             if (!file.exists()) {
 
